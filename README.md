@@ -63,8 +63,6 @@ ou
 k6 run tests/transferencias.test.js
 ```
 
-## 🧾 Aula: Gerando Relatórios de Execução com K6
-
 ### 📊 Gerando Relatórios Web com o K6
 
 O K6 permite visualizar relatórios de execução diretamente no navegador ou gerar arquivos HTML com gráficos e métricas detalhadas sobre o desempenho dos testes.
